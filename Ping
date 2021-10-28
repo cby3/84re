@@ -1,0 +1,8 @@
+echo -e "\e[96m NETWORK SCANNER SCRIPT    \e[0m";           
+ NETWORK SCANNER SCRIPT
+if [ "${@:-}                                                              
+                                
+ fi
+ sleep  6
+then
+ ping -c2 8.8.8.8
